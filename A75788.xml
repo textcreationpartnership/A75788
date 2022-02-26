@@ -1,0 +1,236 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true declaration of the suffering of the innocent, who is hated and persecuted without a cause. Wherein is discovered the zeale of the magistrates and people of Banbury, persecuting and imprisoning them that are sent of the Lord in love to their souls to warn them of the evill of their wayes. Declared in a letter sent to William Allen, called justice of peace, with an answer to the false accusations charged upon the innocent. Also their proceedings laid open, and proved to be contrary to the Scriptures. / By Anne Audland, whom the world scornfully calls Quaker.</title>
+            <author>Audland, Anne, 1626 or 7-1705.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75788</idno>
+            <idno type="STC">Wing A4195</idno>
+            <idno type="STC">Thomason E829_7</idno>
+            <idno type="STC">ESTC R207394</idno>
+            <idno type="EEBO-CITATION">99866448</idno>
+            <idno type="PROQUEST">99866448</idno>
+            <idno type="VID">168069</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75788)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168069)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 126:E829[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true declaration of the suffering of the innocent, who is hated and persecuted without a cause. Wherein is discovered the zeale of the magistrates and people of Banbury, persecuting and imprisoning them that are sent of the Lord in love to their souls to warn them of the evill of their wayes. Declared in a letter sent to William Allen, called justice of peace, with an answer to the false accusations charged upon the innocent. Also their proceedings laid open, and proved to be contrary to the Scriptures. / By Anne Audland, whom the world scornfully calls Quaker.</title>
+                  <author>Audland, Anne, 1626 or 7-1705.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and are to be sold by Giles Calvert at the sign of the Black Spread-Eagle at the west-end of Pauls,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March 3: 1654"; the final 5 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Audland, Anne, 1626 or 7-1705.</term>
+               <term>Society of Friends --  Apologetic works --  Early works to 1800.</term>
+               <term>Quakers --  England --  Banbury --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168069:1" rendition="simple:additions"/>
+            <p>A TRUE DECLARATION OF The ſuffering of the innocent, who is hated and perſecuted without a cauſe.</p>
+            <p>Wherein is diſcovered the zeale of the Magiſtrates and people of <hi>BANB<g ref="char:V">Ʋ</g>RY,</hi> perſecuting and impriſoning them that are ſent of the Lord in love to their Souls to warn them of the evill of their wayes.</p>
+            <p>Declared in a Letter ſent to <hi>William Allen,</hi> called Juſtice of Peace, with an anſwer to the falſe Accuſati<g ref="char:EOLhyphen"/>ons charged upon the Innocent.</p>
+            <p>Alſo their Proceedings laid open, and proved to be contrary to the SCRIPTURES.</p>
+            <p>By <hi>Anne Audland,</hi> whom the world ſcornfully calls QUAKER.</p>
+            <q>
+               <p>The adverſaries of the Lord ſhall be broken to pieces: out of heaven ſhall he thunder upon them. The Lord ſhall judge the ends of the earth: and he ſhall give ſtrength unto his King, and exalt the horne of his annointed, <bibl>
+                     <hi>1 Sam. 2.10.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <q>
+               <p>And on my ſervants, and on my handmaidens, I will poure out in thoſe dayes of my ſpirit, and they ſhall propheſie, <bibl>
+                     <hi>Act. 2.18.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed, and are to be ſold by <hi>Giles Calvert</hi> at the Sign of the Black Spread-Eagle at the Weſt-end of <hi>Pauls,</hi> 1655.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168069:2"/>
+            <pb n="1" facs="tcp:168069:2"/>
+            <head>A TRUE DECLARATION Of the ſuffering of the Innocent, who is hated and perſecuted without a CAUSE, <hi>&amp;c.</hi>
+            </head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>
+                        <seg rend="decorInit">W</seg>Illiam Allen,</hi> Juſtice of Peace ſo called, but little peace I finde in thee; We came to the Towne of <hi>Banbu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>y</hi> on the 13th. day of the 11th. moneth: and being ſtrangers, we tooke in at the Lyon: The next day being the fi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt day of the week, wee went to a meeting which we heard of in the Towne; and when the meeting ended, we were mo<g ref="char:EOLhyphen"/>ved to go to the Steeple-houſe, to ſpeake the word of the Lord to Prieſt and People; and in obedience to the Lord, we went, and ſtayed till the Prieſt had done, and then my friend ſpoke to the Prieſt, and the rude multitude came and hurried her forth, as the cuſtoms of the Heathens is; Then I ſpoke to the Prieſt, Man, here, ſee the fruits of thy Miniſtry, and preſently the rude people hurried me forth: Then came one and tooke me by the hand, and queſtioned me, what untruths their Miniſter had ſpoken; and I anſwered, That they that are out of the Do<g ref="char:EOLhyphen"/>ctrine of Chriſt, all they ſpoke was untruth: And though they ſay, <hi>The Lord liveth,</hi> ſurely they ſweare falſely, <hi>Jer. 5.2.</hi>
+                  </p>
+                  <p>Then another asked me, if the Lord did not live; I anſwered, yea, <hi>I know he liveth.</hi> Now there are two Boyes that hath ſworn againſt me, that which I did not ſpeake, their blood will be required of them that cauſed them to erre; And know this O man, that the Lord God will be avenged of all unjuſt Juſtices, and he will make his power known in the deſtructi<g ref="char:EOLhyphen"/>on of his Enemies: Therefore feare him, and beware of perſecuting his <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>rvants, for juſtly ſhalt thou be judged, according to the deeds done in the body ſhalt thou receive thy reward; To the light in thy conſcie<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ce do I direct thee, it will let thee ſee all thy actions, and from whence they ariſe, whether from the ſpirit of meekneſſe, or from thy perverſe will, which the Lord will judge righteouſly; To that in thy conſcience I ſpeake which will witneſſe for God againſt all deceit.</p>
+                  <pb n="2" facs="tcp:168069:3"/>
+                  <p>This was I moved to write to cleare my conſcience of thee, and leave thee without excuſe, that when the book of Conſcience is opened, thou mayeſt remember that thou waſt forwarned in thy life time. A friend of the Truth, and a lover of thy Soule, who is a priſoner of the Lord for the Truths <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ake at <hi>Banbury,</hi> whoſe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ame in the fleſh is</p>
+                  <closer>
+                     <signed>Anne Audland.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>WHereas I am accuſed in a <hi>Mittimus</hi> for certaine blaſphemous words, ſaying, <hi>That the Lord live<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>h no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>;</hi> I anſwer, theſe words are falſe, and never ſpoken by me: <hi>The Lord is my Redeemer, and I know that my Redeemer liveth: and my ſoule magnifieth him, and my ſpirit rejoceth in him;</hi> and here I deny your falſe accuſations and blaſphemie, it is your owne words, and not what I ſayd; and you that accuſe falſely, know not the living God, the Heathen knows not God, and the Heathens rage, but the Lord will be a<g ref="char:EOLhyphen"/>venged of all his enemies, and plead the cauſe of the innocent: <hi>And they are blaſphemers which ſay they are Jewes, and are not, but are the ſynagogue of Sa<g ref="char:EOLhyphen"/>tan.</hi> And whereas I am accuſed for cauſing a tumult in the Church, when the Miniſter was going to execute part of his Function, and likewiſe to aſ<g ref="char:EOLhyphen"/>ſault the Miniſter; I anſwer, This is likewiſe falſe; Lyars muſt be caſt into the lake; The Church is built of living ſtones, elect and precious, and there is order kept in the Church; And I did not cauſe a tumult, neither did I aſſault the Miniſter (as yee call him) and that which is called part of his Function, is an invention; and there is neither command nor example in all the Scripture, that ever any of the Miniſters of Chriſt did ſprinkle Infants, and call it a Function; and here you have no Scripture to prove your Function, as you call it: And he that practiſes ſuch things, for the which there is no Scripture, leads people into the inventions, and ſo they are not profited at all, as it appears by your owne words, that they were in a tumult. O bluſh, and be aſhamed of that which you call your Church, who are ſo ſuddenly in a tumult! Was there ever ſuch a thing heard of amongſt the Saints, that they would be in a tumult, when one came in peaceably among them, not offering wrong to any? Here you ſhew your ſelves to be children of your Fathers who lived in envy, haling out of Synagogues, carrying them before Rulers, and caſting into priſons them who was called of the Lord to beare witneſſe againſt their deceit; and here (him called the Miniſter) is made manifeſt to be one that runs before he was ſent, and ſo never profitted the people, and ſo like Prieſt, like People. Therefore give over, and never call it a Church, who are fighters and ſtrikers, ſcoffers and ſcorners, tumulters and falſe accuſers, as your fruits makes it daily appeare; And ſome of you confeſſe that they are in danger of their lives that comes among you, the people are ſo rude. Now you that are <hi>Magiſtrates</hi> ought to puniſh evill Doers, Fighters, and Lyars, and falſe Accuſers; but ſuch have liberty, and dare do it in your Church (as you call it) and you preſent, as he that cauſed the <hi>Mittimus</hi> to be made doth confeſſe; That there was a tumult when he was preſent, and they that tumulted are not puniſhed, but the fault is layd upon the innocent, who was beate and abuſed, but offered violence to none: And ſo they ſaid <hi>Paul</hi> was a peſtilent fellow, and they tumulted <hi>Paul,</hi> but <hi>Paul</hi>
+                     <pb n="3" facs="tcp:168069:3"/> did not cauſe the tumult: So you are made manifeſt of what generation you are, and you ſhall be rewarded according to your deeds: And from the Lord I declare, That he will viſite for theſe things, and plead with you for all your hard ſpeeches, and all your ungodly deeds: and give you your portion with hypocrites, except you ſpeedily repent; and when you come into the pit, remember you are warned in your life time: And ſo your falſe accuſation and blaſphemy I do deny, and the living God will judge between me and you.</p>
+                  <closer>
+                     <dateline>
+                        <hi>The Burrough of</hi> Banbury <hi>in the County</hi> Oxon.</dateline>
+                     <signed>Anne Audland.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>THe righteous Judge of all the world is now ariſing <hi>to judge the world in righteouſneſſe, and the people with equity: And every tongue ſhall confeſſe that the Lord is righteous, when hee comes to judgement, and hee will reward every one according to their deeds. And every tongue ſhall confeſſe the Lord is juſt.</hi> For according to that in the conſcience which is juſt and equall, will the Lord judge, whoſe Judgements are juſt and equall; and every tongue ſhall confeſſe him juſt, when hee takes vengeance upon the un<g ref="char:EOLhyphen"/>juſt: And behold the Lord cometh with tenne thouſands of his Saints to execute Judgement upon all, and to convince all that are ungodly of all their ungodly deeds, which they have ungodlily committed, and of all their hard ſpeeches, which ungodly ſinners have ſpoken: And ſuch are they that walk after their own luſts, and their mouth ſpeaks great ſwelling words, having mens perſons in admiration, becauſe of advantage, ſuch will the Lord execute judgement upon in righteouſneſſe: All you that are ungodly, the Lord will reward you according to your deeds; And all you that utter hard ſpeeches againſt the holy one, and blaſpheme God in his Temple, the Lord is coming with his Saints to execute judgement up<g ref="char:EOLhyphen"/>on you; and you ſhall confeſſe his Judgements is juſt, that which con<g ref="char:EOLhyphen"/>vinceth you of your ungodly deeds, and hard ſpeeches, by it you ſhall con<g ref="char:EOLhyphen"/>feſſe the Lord is juſt, when you are judged for your ungodly deeds, and hard ſpeeches; And all you that have mens perſons in admiration becauſe of advantage, you ſhall be judged righteouſly, and you ſhall confeſſe that God is juſt, and his wayes equall, and God reſpects no mans perſon; nor the Saints who comes with him to judgement, reſpects no mans perſon; for he that reſpects perſons commits ſinne, and is convinced to be a tranſ<g ref="char:EOLhyphen"/>greſſor of the righteous law of God; but they who are guided by that which convinceth the tranſgreſſor, they are kept out of the tranſgreſſion, and they do not admire mens perſons, nor reſpect mens perſons. But you that do, are convinced to be tranſgreſſors; and according to that which convinceth, will you be judged by the righteous Judge, who cometh with tenne thouſands of his Saints, and he will judge all you that reſpects per<g ref="char:EOLhyphen"/>ſons; for the Lord regards the rich no more then the poor; but this is hee that the Lord regardeth, who is of a humble and contrite ſpirit, and trem<g ref="char:EOLhyphen"/>bleth at his word. Such you do not regard, who are poor, and trembleth at the word of the Lord: but you that reſpect perſons, ſcoffs at ſuch as they go along the ſtreets; But the Lord will plead the cauſe of the poore, who is now deſpiſed amongſt you that reſpects perſons: you admire ſome mens perſons becauſe of advantage, and ye deſpiſe others, and perſecutes the
+<pb n="4" facs="tcp:168069:4"/> poore, and goes about to make one an offender for a word which is none indeed; and you ſet a ſnare for them that reprove in the gate, that ſo you might catch the innocent, &amp; they that are offenders indeed, who can lye, &amp; ſwear, &amp; accuſe falſly; ſuch have liberty, &amp; ſuch are ſet to enſnare the inno<g ref="char:EOLhyphen"/>cent, &amp; to be as judges againſt the innocent, and yet you profeſs your ſelves Chriſtians; Oh <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hat you were wiſe! oh that you would co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſider your latter end! how will you ſtand before the Ju<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gment fear of God, in the day when the ſecrets of every heart ſhall he judged by Jeſus Chriſt, who hath all judg<g ref="char:EOLhyphen"/>ment committed to him: A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d behold he cometh, and all the Saints with him, and he rules and reigns in his Saints, and ſits upon his Throne: But how will you ſtand at that day, who now ſits as Judges upon the Saints, and cals them deceivers, and perſecutes them, who are made free by the Sonne of God, and in obedience to him ſuffers the loſſe of all things, and are killed all the day long, and are accounted as ſheep for the ſlaughter<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>; and are be<g ref="char:EOLhyphen"/>come a reproach, and a by-word, and a ſcorn, even among you that pro<g ref="char:EOLhyphen"/>feſſe your ſelves Chriſtians, and ſo the Scripture is fulfilled, They that work wickedneſſe are ſet up, and they that depart from iniquity becomes a prey to the wicked; and the ſufferings of the Saints is become a ſport a<g ref="char:EOLhyphen"/>mongſt you; and you can ſtretch your ſelves upon your beds of eaſe; and you do not remember the affliction of <hi>Joſeph;</hi> nor you have not knowne, that all who live godly in Chriſt Jeſus muſt ſuffer perſecution; And ſaith Chriſt, <hi>As they have done unto me, ſo will they doe unto you: And the ſervant is not greater then his Lord.</hi>
+                  </p>
+                  <p>Now if you were Chriſtians as you profeſſe your ſelves to be, then would perſecution ceaſe, and not be found amongſt you; for Chriſtians doth not perſecute, but you that live in ſuch things, are made manifeſt (to all the children of light) whoſe ſervants you are; and you that are Magiſtrates, who ſhould puniſh evil doers, ſuch have liberty in the ſtreets to ſcoffe and ſcorne, to ſwear and lye, and be drunk, and you paſſe by theſe things; but if any come amongſt you to declare the word of the Lord againſt ſuch things, then the innocent are accuſed by them who live in ſuch things, and the in<g ref="char:EOLhyphen"/>nocent are perſecuted and ſent to Priſon; and may not know from you who priſons them, what they are accuſed of; nor ſee their accuſers face to face; is this according to the Law of God? or is this as you would be done unto? Conſider of it, and lay it to heart, <hi>for the Lord will viſit for theſe things;</hi> I ſpeak what I know, and finde amongſt you; for I was accuſed and com<g ref="char:EOLhyphen"/>mitted to Priſon, but I did not know what the accuſers ſwore againſt me, neither could I ſee my accuſers: but you took an o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th in ſecret, and ſo I was accuſed, and committed for that which I never ſpoke, and had not li<g ref="char:EOLhyphen"/>berty to anſwer for my ſelfe, nor others had no liberty, nor could be heard on my behalfe, who was by when they ſay I ſpoke theſe words, for which I am accuſed, which would bear teſtimony that they heard no ſuch things ſpo<g ref="char:EOLhyphen"/>ken by me, as I am accuſed off, and ſo the innocent ſuffers innocently; and in the mean time wickedneſſe is at liberty, and not onely in a corner, but in your ſtreets; men lie, and ſweare, and are drunke, and the innocent is a prey unto <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hem; and yet you do not lay it to heart; woe is me for you, that you ſhould ſo ſlight the day of your viſitation, and ſo wickedly requite the Lord for all his goodneſſe; as to perſecute his ſervants, who are ſent to
+<pb n="5" facs="tcp:168069:4"/> warne you; and deſpiſe h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s witneſſes, and ſhamefully intreat his meſſen<g ref="char:EOLhyphen"/>gers, and them that comes to you in their own names, ſuch you receive; but them that come to you in the name of the Lord, ſuch are a reproach a<g ref="char:EOLhyphen"/>mongſt you; and the Lord is highly diſpleaſed with you for theſe things; and he will make enquiry for blood; you know that the blood of the in<g ref="char:EOLhyphen"/>nocent hath been ſhed in your ſtreets; one that came amongſt you and of<g ref="char:EOLhyphen"/>fered violence to none, was beat and abuſed, and loſt much blood amongſt you: and yet you are not aſhamed to profeſſe your ſelves Chriſtians, when as theſe actions proceeds from you; and your care is how to wound the innocent ſecretly, that ſo your deeds might not be brought to the light; but it is in vaine for you to dig deep to hide your councell from the Lord; <hi>Woe unto you that deviſeth to worke miſcheife in the darke, and ſay, who ſeeth us; and conſults together to ſhoot your arrows ſecertly againſt the poore.</hi> The Lord ſees you, and knows your hearts, and your very thoughts which you think againſt the King in your bed chamber; there is a bird of the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ire that carryes the voyce; And <hi>the Lord will bring eve<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>y worke to judgment, with every ſecret thing, whether it be good or evill;</hi> and the oath in ſecret ſhall be tryed; and the Lord will ſit as Judge amongſt the Judges, and you ſhall all be weighed and thoſe of you that a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e found wanting, the Lord will caſt you by, though you be as high and mighty as <hi>Belſhazzar</hi> was: and if you be angry with mee for telling you ſo, and forewarning you in your life time; the Lord will judge you for it; for he is tender over his little ones; and in as much as you perſecute one of them, ye do it unto him; and you that imp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iſon the innocent, and they may not ſee their accuſers, is this according to the Law of God? or is this to judge for God, and not for man, nor ſelf ends, without reſpect of perſons? They that were ſet over the people to judge them ac<g ref="char:EOLhyphen"/>cording to the Law of God, <hi>were juſt men fearing God, and hating coveteouſneſſe:</hi> juſt men we<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e to judge the unjuſt; for the unjuſt cannot judge true judge<g ref="char:EOLhyphen"/>ment: See what charge <hi>Jeh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſhaphat</hi> gave unto them he ſet over the peo<g ref="char:EOLhyphen"/>ple, 2 <hi>Chron.</hi> 19.6, 7, 9. <hi>Saying to the Judges, take heed what you doe, for you judge not for man but for the Lord, who is with you in the judgement: wherefore now let the feare of the Lord be upon you, and take heed and do it, for there is no iniquity with the Lord our God: nor reſpect of perſons, not taking of gifts: And he charged them ſaying, thus ſhall ye do in the fear of the Lord faithfully and with a perfect heart:</hi> Now all you that denies a perfect heart, and are reſpecters of perſons, you cannot judge with a perfect heart; and ſuch are not judges for God, who judges not not with a perfect heart, but are reſpecters of per<g ref="char:EOLhyphen"/>ſons; but they who fear God, and do faithfully with a perfect heart, ſuch Judges, and Magiſtrates I own who are juſt men; ſuch rules for God, and is a terrour to the wicked, and for the praiſe of them that do well; and ſuch am ſubject to for conſcience ſake; but they who were the ſervants of Chriſt, &amp; <hi>Miniſters</hi> of <hi>Chr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſt,</hi> when they were commanded by the rulers that w<hi rend="sup">ch</hi> was contrary to the co<g ref="char:cmbAbbrStroke">̄</g>mand of Chriſt; they ſaid whether is it better to obey God or man: judge ye, and I ſay the ſame, and they which command any thing contrary to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he command of Chriſt, which rules and reigns in his people, and is one in the male and in the female; ſuch are not juſt men fearing God and judging faithfully with a perfect heart; and ſuch who do not fear God and have not a perfect heart, ſuch knows not the voyce of God; but Chriſts ſheep who follow Chriſt, and are ſent of God knows his voyce: Now Ma<g ref="char:EOLhyphen"/>giſtrates
+<pb n="6" facs="tcp:168069:5"/> and people will ſay, how may we know that you are ſent of God? as <hi>Pharaoh</hi> ſayd to <hi>Moſes,</hi> who ſent thee? and he anſwered, the Lord ſent me, to bid thee let Iſrael go free; and <hi>Pharaoh</hi> ſayd, I know not the Lord, neither will I obey him, and let Iſrael go free; ſuch are they who fear not God, nor know not his voyce; and ſuch cannot diſcerne the things of God, Magiſtrates nor people who fear not God, and have not a perfect heart: now conſider if you judge me according to the Law of God, when you heard all that was againſt me and did accuſe me, but would not hear the accuſed and the accuſers face to face, nor thoſe that was by, who would have witneſ<g ref="char:EOLhyphen"/>ſed againſt thoſe untruths charged upon me, but put them forth and ſaid, what have you to do here; notwithſtanding, they ſaid they came to bear witneſſe to the truth: ſee how <hi>Moſes</hi> charged the Judges, <hi>Deut.</hi> 1.16, 17. ſaying, <hi>Heare the cauſe between your brethren, and judge righteouſly between every man and his brother, and the ſtranger that is with him; ye ſhall not reſpect perſons in judgement, but ye ſhall hear the ſmall as well as the great; ye ſhall not be afraid of the face of man; for the judgement is Gods:</hi> and <hi>Deut.</hi> 16.18, 19, 20. <hi>The Judges and Officers was to judge the people with juſt judgement; thou ſhalt not wreſt judgement; thou ſhalt not reſpect perſons; neither take a gift, for a gift doth blinde the eye of the wiſe, and perverts the words of the righteous; that which is altogether juſt ſhalt thou follow, that thou mayeſt live and inherite the Land which the Lord thy God giveth thee;</hi> now this is true Judgement, and takes hold up<g ref="char:EOLhyphen"/>on the unjuſt; but here you do not act according to the Law of God, who doth reſpect perſons, and doth not hear the ſmall as well as the great, which you have not done who have committed me to Priſon; and I had not li<g ref="char:EOLhyphen"/>berty to ſpeak face to face with my accuſers, and ſo I am falſly accuſed, and impriſoned upon a falſe accuſation, he that knows all ſecrets is my witneſſe; and he will plead my cauſe, and he will judge righteous judgement upon all the Heathen; and the Lord comes with his Saints; and this honour have all the Saints; to execute upon the Heathen all the judgements written; but the Heathen ought not to Judg the Saints; but the heathen rages, &amp; the heathen perſecutes &amp; priſons, &amp; falſly accuſeth the Saints, and the viols of wrath is now to be poured out upon the wicked; and the Saints ſhall take the kingdom &amp; rejoyce in God for ever and ever, which giveth them victory over the world, and gives them ſtrength to rejoyce in tribulation; praiſes to the living God for evermore. And ſo I warne you all people, Magiſtrates, and Teachers, to feare the Lord God, leaſt his wrath and indignation break forth againſt you, and the decree be ſealed, and he take you away with his grievous ſtroke, and there be no remedy; for God is my witneſſe that my deſire is for you; that you may know the things that belongs to your peace; ſo to you all I have cleared my conſcience, and I am free from your blood, glory to the Lord for evermore, who hath given me to beleive and ſuffer for the teſtimony of Jeſus; ſo I remaine a witneſſe for the truth, and a priſoner in bonds at <hi>Banbury</hi> for the truths ſake, who am innocent; but falſly accuſed, and ſlandered, and reproached; but the reproaches for Chriſt, is my riches: whoſe name in the fleſh is,</p>
+                  <closer>
+                     <dateline>
+                        <date>The 5 day of the 12. month, 1654.</date>
+                     </dateline>
+                     <signed>Anne Audland.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
